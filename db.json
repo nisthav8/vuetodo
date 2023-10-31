@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "todos": [
+    {
+      "detail": "Complete projects",
+      "id": 1
+    },
+    {
+      "detail": "Wash clothes",
+      "id": 2
+    },
+    {
+      "detail": "Clean room",
+      "id": 3
+    }
+  ]
+}
